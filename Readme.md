@@ -1,11 +1,6 @@
 # TR-Search
-<module>
-	<name>trsearch</name>
-	<displayName><![CDATA[TR-Search]]></displayName>
-	<version><![CDATA[0.0.2]]></version>
-	<description><![CDATA[Querys to search on DB for orders and customers]]></description>
-	<author><![CDATA[Javier Diaz]]></author>
-	<tab><![CDATA[search_filter]]></tab>
-	<is_configurable>1</is_configurable>
-	<need_instance>1</need_instance>
-</module>
+	version 0.0.2
+	Querys to search on DB for orders and customers in PrestaShop 1.7
+	author: Javier Diaz
+	
+	
