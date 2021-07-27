@@ -25,3 +25,19 @@
 * Don't forget to prefix your containers with your own identifier
 * to avoid any conflicts with others containers.
 */
+.moduleconfig-header img {
+  max-height: 40px;
+}
+.blockSearch {
+  margin-bottom: 6em;
+}
+@media (min-width: 1200px) {
+  .result {
+    width: 80%;
+    float: right;
+  }
+  #configuration_form {
+    width: 20%;
+    float: left;
+  }
+}

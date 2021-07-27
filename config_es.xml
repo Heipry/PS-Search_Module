@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>trsearch</name>
+    <displayName><![CDATA[TR-Search]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Querys to search on DB for orders and customers]]></description>
+    <author><![CDATA[Javier Diaz]]></author>
+    <tab><![CDATA[search_filter]]></tab>
+	<confirmUninstall><![CDATA[Sure?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
